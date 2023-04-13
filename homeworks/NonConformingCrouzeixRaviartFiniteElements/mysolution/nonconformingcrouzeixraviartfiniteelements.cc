@@ -13,7 +13,7 @@ lf::base::RefEl CRReferenceFiniteElement::RefEl() const {
   lf::base::RefElType ref_el_type;
 // TODO: task 2-14.q)
 //====================
-// Your code goes here
+  ref_el_type = lf::base::RefElType::kTria;
 //====================
   return lf::base::RefEl(ref_el_type);
 }
@@ -25,7 +25,7 @@ unsigned int CRReferenceFiniteElement::Degree() const {
   unsigned int degree;
 // TODO: task 2-14.q)
 //====================
-// Your code goes here
+  degree = 1;
 //====================
   return degree;
 }
@@ -36,7 +36,7 @@ lf::assemble::size_type CRReferenceFiniteElement::NumRefShapeFunctions() const {
   lf::assemble::size_type num_ref_shape_functions;
 // TODO: task 2-14.q)
   //====================
-  // Your code goes here
+  num_ref_shape_functions = 3;
   //====================
   return num_ref_shape_functions;
 }
@@ -46,7 +46,12 @@ lf::assemble::size_type CRReferenceFiniteElement::NumRefShapeFunctions(
   switch (codim) {
     // TODO: task 2-14.q)
 //====================
-// Your code goes here
+    case 0:
+      return 0;
+    case 1:
+      return 1;
+    case 2: 
+      return 0;
 //====================
     default:
       LF_VERIFY_MSG(false, "Codimension out of range for triangle")
@@ -59,7 +64,15 @@ lf::assemble::size_type CRReferenceFiniteElement::NumRefShapeFunctions(
   switch (codim) {
     // TODO: task 2-14.q)
 //====================
-// Your code goes here
+    case 0:
+      LF_VERFY_MSG((0 = subidx), "Index of cell is out of range for triangle");
+      return 0;
+    case 1:
+      LF_VERFY_MSG((1 <= subidx && subidx < 3),
+                    "Index of edge is out of range for triangle");
+      return 1;
+    case 2:
+      return 0;
 //====================
     default:
       LF_VERIFY_MSG(false, "Codimension out of range for triangle")
@@ -80,7 +93,10 @@ CRReferenceFiniteElement::EvalReferenceShapeFunctions(
   Eigen::MatrixXd eval_ref_shape_functions(3, num_points);
 // TODO: task 2-14.q)
   //====================
-  // Your code goes here
+  Eigen::MatrixXd ones = Eigen::MatrixXd::Ones(num_points).transpose();
+  eval_ref_shape_functions.row(0) = ones - 2. * refcoords.row(1)
+  eval_ref_shape_functions.row(1) = 2. * refcoords.colwise().sum() - ones;
+  eval_ref_shape_functions.row(2) = ones - 2. * refcoords.row(0);
   //====================
   return eval_ref_shape_functions;
 }
