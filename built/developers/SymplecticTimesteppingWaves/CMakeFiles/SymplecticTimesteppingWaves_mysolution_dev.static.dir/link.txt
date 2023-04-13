@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSymplecticTimesteppingWaves_mysolution.static.a CMakeFiles/SymplecticTimesteppingWaves_mysolution_dev.static.dir/mastersolution/symplectictimesteppingwaves_main.cc.o CMakeFiles/SymplecticTimesteppingWaves_mysolution_dev.static.dir/mastersolution/symplectictimesteppingwaves.cc.o CMakeFiles/SymplecticTimesteppingWaves_mysolution_dev.static.dir/mastersolution/symplectictimesteppingwaves_ode.cc.o
+/usr/bin/ranlib libSymplecticTimesteppingWaves_mysolution.static.a

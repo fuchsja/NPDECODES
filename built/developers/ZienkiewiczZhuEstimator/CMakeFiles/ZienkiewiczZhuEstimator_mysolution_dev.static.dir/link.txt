@@ -1,0 +1,2 @@
+/usr/bin/ar qc libZienkiewiczZhuEstimator_mysolution.static.a CMakeFiles/ZienkiewiczZhuEstimator_mysolution_dev.static.dir/mastersolution/zienkiewiczzhuestimator_main.cc.o CMakeFiles/ZienkiewiczZhuEstimator_mysolution_dev.static.dir/mastersolution/zienkiewiczzhuestimator.cc.o
+/usr/bin/ranlib libZienkiewiczZhuEstimator_mysolution.static.a

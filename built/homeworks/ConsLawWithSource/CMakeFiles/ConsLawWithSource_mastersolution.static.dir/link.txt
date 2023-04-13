@@ -1,0 +1,2 @@
+/usr/bin/ar qc libConsLawWithSource_mastersolution.static.a CMakeFiles/ConsLawWithSource_mastersolution.static.dir/mastersolution/conslawwithsource_main.cc.o CMakeFiles/ConsLawWithSource_mastersolution.static.dir/mastersolution/conslawwithsource.cc.o
+/usr/bin/ranlib libConsLawWithSource_mastersolution.static.a

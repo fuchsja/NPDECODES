@@ -1,0 +1,2 @@
+/usr/bin/ar qc libStationaryCurrents_mysolution.static.a CMakeFiles/StationaryCurrents_mysolution_dev.static.dir/mastersolution/stationarycurrents_main.cc.o CMakeFiles/StationaryCurrents_mysolution_dev.static.dir/mastersolution/stationarycurrents.cc.o CMakeFiles/StationaryCurrents_mysolution_dev.static.dir/mastersolution/stationarycurrents_supplement.cc.o
+/usr/bin/ranlib libStationaryCurrents_mysolution.static.a

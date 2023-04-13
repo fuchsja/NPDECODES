@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOrdNotAll_mastersolution.static.a CMakeFiles/OrdNotAll_mastersolution_dev.static.dir/mastersolution/ordnotall_main.cc.o CMakeFiles/OrdNotAll_mastersolution_dev.static.dir/mastersolution/ordnotall.cc.o
+/usr/bin/ranlib libOrdNotAll_mastersolution.static.a

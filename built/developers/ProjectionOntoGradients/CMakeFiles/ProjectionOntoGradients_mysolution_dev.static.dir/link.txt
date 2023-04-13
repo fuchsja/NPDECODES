@@ -1,0 +1,2 @@
+/usr/bin/ar qc libProjectionOntoGradients_mysolution.static.a CMakeFiles/ProjectionOntoGradients_mysolution_dev.static.dir/mastersolution/projectionontogradients_main.cc.o
+/usr/bin/ranlib libProjectionOntoGradients_mysolution.static.a

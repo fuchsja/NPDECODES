@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/SDIRK_mastersolution_dev.dir/mastersolution/sdirk_main.cc.o CMakeFiles/SDIRK_mastersolution_dev.dir/mastersolution/sdirk.cc.o -o SDIRK_mastersolution 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCoupledSecondOrderBVP_mysolution.static.a CMakeFiles/CoupledSecondOrderBVP_mysolution_dev.static.dir/mastersolution/coupledsecondorderbvp_main.cc.o
+/usr/bin/ranlib libCoupledSecondOrderBVP_mysolution.static.a

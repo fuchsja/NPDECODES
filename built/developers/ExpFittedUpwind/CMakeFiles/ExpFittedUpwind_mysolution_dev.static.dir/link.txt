@@ -1,0 +1,2 @@
+/usr/bin/ar qc libExpFittedUpwind_mysolution.static.a CMakeFiles/ExpFittedUpwind_mysolution_dev.static.dir/mastersolution/expfittedupwind_main.cc.o CMakeFiles/ExpFittedUpwind_mysolution_dev.static.dir/mastersolution/expfittedupwind.cc.o
+/usr/bin/ranlib libExpFittedUpwind_mysolution.static.a

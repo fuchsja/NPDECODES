@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSDIRKMethodOfLines_mastersolution.static.a CMakeFiles/SDIRKMethodOfLines_mastersolution.static.dir/mastersolution/sdirkmethodoflines_main.cc.o CMakeFiles/SDIRKMethodOfLines_mastersolution.static.dir/mastersolution/sdirkmethodoflines.cc.o CMakeFiles/SDIRKMethodOfLines_mastersolution.static.dir/mastersolution/sdirkmethodoflines_ode.cc.o
+/usr/bin/ranlib libSDIRKMethodOfLines_mastersolution.static.a

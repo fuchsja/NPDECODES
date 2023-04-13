@@ -1,0 +1,5 @@
+if(EXISTS "/home/fuchsja/NPDECODES/built/homeworks/EngquistOsherNumericalFlux/EngquistOsherNumericalFlux_test_mysolution[1]_tests.cmake")
+  include("/home/fuchsja/NPDECODES/built/homeworks/EngquistOsherNumericalFlux/EngquistOsherNumericalFlux_test_mysolution[1]_tests.cmake")
+else()
+  add_test(EngquistOsherNumericalFlux_test_mysolution_NOT_BUILT EngquistOsherNumericalFlux_test_mysolution_NOT_BUILT)
+endif()

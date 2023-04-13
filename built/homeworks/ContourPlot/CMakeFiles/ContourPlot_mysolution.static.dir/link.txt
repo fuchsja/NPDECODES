@@ -1,0 +1,2 @@
+/usr/bin/ar qc libContourPlot_mysolution.static.a CMakeFiles/ContourPlot_mysolution.static.dir/mysolution/contourplot_main.cc.o CMakeFiles/ContourPlot_mysolution.static.dir/mysolution/contourplot.cc.o
+/usr/bin/ranlib libContourPlot_mysolution.static.a

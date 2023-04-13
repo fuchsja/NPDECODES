@@ -1,0 +1,2 @@
+/usr/bin/ar qc libQuasiInterpolation_mastersolution.static.a CMakeFiles/QuasiInterpolation_mastersolution.static.dir/mastersolution/quasiinterpolation_main.cc.o CMakeFiles/QuasiInterpolation_mastersolution.static.dir/mastersolution/quasiinterpolation.cc.o
+/usr/bin/ranlib libQuasiInterpolation_mastersolution.static.a

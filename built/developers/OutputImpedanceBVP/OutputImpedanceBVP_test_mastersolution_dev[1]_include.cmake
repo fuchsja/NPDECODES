@@ -1,0 +1,5 @@
+if(EXISTS "/home/fuchsja/NPDECODES/built/developers/OutputImpedanceBVP/OutputImpedanceBVP_test_mastersolution_dev[1]_tests.cmake")
+  include("/home/fuchsja/NPDECODES/built/developers/OutputImpedanceBVP/OutputImpedanceBVP_test_mastersolution_dev[1]_tests.cmake")
+else()
+  add_test(OutputImpedanceBVP_test_mastersolution_dev_NOT_BUILT OutputImpedanceBVP_test_mastersolution_dev_NOT_BUILT)
+endif()

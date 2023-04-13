@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TransformedConsLaw_mysolution.dir/mysolution/transformedconslaw_main.cc.o CMakeFiles/TransformedConsLaw_mysolution.dir/mysolution/transformedconslaw.cc.o -o TransformedConsLaw_mysolution 

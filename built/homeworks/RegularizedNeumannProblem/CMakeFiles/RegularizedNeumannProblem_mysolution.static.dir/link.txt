@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRegularizedNeumannProblem_mysolution.static.a CMakeFiles/RegularizedNeumannProblem_mysolution.static.dir/mysolution/regularizedneumannproblem_main.cc.o
+/usr/bin/ranlib libRegularizedNeumannProblem_mysolution.static.a

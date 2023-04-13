@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFiniteVolumeSineConsLaw_mastersolution.static.a CMakeFiles/FiniteVolumeSineConsLaw_mastersolution.static.dir/mastersolution/finitevolumesineconslaw_main.cc.o CMakeFiles/FiniteVolumeSineConsLaw_mastersolution.static.dir/mastersolution/finitevolumesineconslaw.cc.o
+/usr/bin/ranlib libFiniteVolumeSineConsLaw_mastersolution.static.a

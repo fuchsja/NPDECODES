@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRadauThreeTimestepping_mysolution.static.a CMakeFiles/RadauThreeTimestepping_mysolution.static.dir/mysolution/radauthreetimestepping_main.cc.o CMakeFiles/RadauThreeTimestepping_mysolution.static.dir/mysolution/radauthreetimestepping.cc.o CMakeFiles/RadauThreeTimestepping_mysolution.static.dir/mysolution/radauthreetimesteppingode.cc.o
+/usr/bin/ranlib libRadauThreeTimestepping_mysolution.static.a

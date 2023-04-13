@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGradientFlow_mastersolution.static.a CMakeFiles/GradientFlow_mastersolution.static.dir/mastersolution/gradientflow_main.cc.o CMakeFiles/GradientFlow_mastersolution.static.dir/mastersolution/gradientflow.cc.o
+/usr/bin/ranlib libGradientFlow_mastersolution.static.a

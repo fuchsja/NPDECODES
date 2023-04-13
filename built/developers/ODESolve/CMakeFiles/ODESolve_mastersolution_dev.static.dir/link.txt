@@ -1,0 +1,2 @@
+/usr/bin/ar qc libODESolve_mastersolution.static.a CMakeFiles/ODESolve_mastersolution_dev.static.dir/mastersolution/odesolve_main.cc.o CMakeFiles/ODESolve_mastersolution_dev.static.dir/mastersolution/odesolve.cc.o
+/usr/bin/ranlib libODESolve_mastersolution.static.a

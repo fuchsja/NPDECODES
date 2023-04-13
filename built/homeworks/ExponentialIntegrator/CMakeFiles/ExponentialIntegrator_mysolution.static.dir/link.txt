@@ -1,0 +1,2 @@
+/usr/bin/ar qc libExponentialIntegrator_mysolution.static.a CMakeFiles/ExponentialIntegrator_mysolution.static.dir/mysolution/exponentialintegrator_main.cc.o CMakeFiles/ExponentialIntegrator_mysolution.static.dir/mysolution/exponentialintegrator.cc.o
+/usr/bin/ranlib libExponentialIntegrator_mysolution.static.a

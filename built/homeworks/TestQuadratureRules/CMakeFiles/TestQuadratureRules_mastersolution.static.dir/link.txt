@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTestQuadratureRules_mastersolution.static.a CMakeFiles/TestQuadratureRules_mastersolution.static.dir/mastersolution/testquadraturerules_main.cc.o CMakeFiles/TestQuadratureRules_mastersolution.static.dir/mastersolution/testquadraturerules.cc.o
+/usr/bin/ranlib libTestQuadratureRules_mastersolution.static.a

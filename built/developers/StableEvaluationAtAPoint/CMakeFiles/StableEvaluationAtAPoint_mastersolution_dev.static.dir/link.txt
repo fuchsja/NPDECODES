@@ -1,0 +1,2 @@
+/usr/bin/ar qc libStableEvaluationAtAPoint_mastersolution.static.a CMakeFiles/StableEvaluationAtAPoint_mastersolution_dev.static.dir/mastersolution/stableevaluationatapoint_main.cc.o CMakeFiles/StableEvaluationAtAPoint_mastersolution_dev.static.dir/mastersolution/stableevaluationatapoint.cc.o
+/usr/bin/ranlib libStableEvaluationAtAPoint_mastersolution.static.a

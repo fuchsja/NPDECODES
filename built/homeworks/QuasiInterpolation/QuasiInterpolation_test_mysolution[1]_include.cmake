@@ -1,0 +1,5 @@
+if(EXISTS "/home/fuchsja/NPDECODES/built/homeworks/QuasiInterpolation/QuasiInterpolation_test_mysolution[1]_tests.cmake")
+  include("/home/fuchsja/NPDECODES/built/homeworks/QuasiInterpolation/QuasiInterpolation_test_mysolution[1]_tests.cmake")
+else()
+  add_test(QuasiInterpolation_test_mysolution_NOT_BUILT QuasiInterpolation_test_mysolution_NOT_BUILT)
+endif()

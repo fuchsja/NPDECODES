@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIncidenceMatrices_mysolution.static.a CMakeFiles/IncidenceMatrices_mysolution.static.dir/mysolution/incidencematrices_main.cc.o CMakeFiles/IncidenceMatrices_mysolution.static.dir/mysolution/incidencematrices.cc.o
+/usr/bin/ranlib libIncidenceMatrices_mysolution.static.a

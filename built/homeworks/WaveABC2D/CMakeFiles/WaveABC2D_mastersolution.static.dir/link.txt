@@ -1,0 +1,2 @@
+/usr/bin/ar qc libWaveABC2D_mastersolution.static.a CMakeFiles/WaveABC2D_mastersolution.static.dir/mastersolution/waveabc2d.cc.o CMakeFiles/WaveABC2D_mastersolution.static.dir/mastersolution/waveabc2d_main.cc.o
+/usr/bin/ranlib libWaveABC2D_mastersolution.static.a

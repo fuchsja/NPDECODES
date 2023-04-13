@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLinFeReactDiff_mastersolution.static.a CMakeFiles/LinFeReactDiff_mastersolution_dev.static.dir/mastersolution/linfereactdiff_main.cc.o CMakeFiles/LinFeReactDiff_mastersolution_dev.static.dir/mastersolution/linfereactdiff.cc.o
+/usr/bin/ranlib libLinFeReactDiff_mastersolution.static.a

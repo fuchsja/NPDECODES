@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMaximumPrinciple_mysolution.static.a CMakeFiles/MaximumPrinciple_mysolution_dev.static.dir/mastersolution/maximumprinciple_main.cc.o CMakeFiles/MaximumPrinciple_mysolution_dev.static.dir/mastersolution/maximumprinciple.cc.o
+/usr/bin/ranlib libMaximumPrinciple_mysolution.static.a

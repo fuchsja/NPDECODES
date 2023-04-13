@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUpwindFiniteVolume_mastersolution.static.a CMakeFiles/UpwindFiniteVolume_mastersolution.static.dir/mastersolution/upwindfinitevolume_main.cc.o CMakeFiles/UpwindFiniteVolume_mastersolution.static.dir/mastersolution/upwindfinitevolume.cc.o
+/usr/bin/ranlib libUpwindFiniteVolume_mastersolution.static.a

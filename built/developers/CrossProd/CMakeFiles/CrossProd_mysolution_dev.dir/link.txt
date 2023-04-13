@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CrossProd_mysolution_dev.dir/mastersolution/crossprod_main.cc.o CMakeFiles/CrossProd_mysolution_dev.dir/mastersolution/crossprod.cc.o -o CrossProd_mysolution 

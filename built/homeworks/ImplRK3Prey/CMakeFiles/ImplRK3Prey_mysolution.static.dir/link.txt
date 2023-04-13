@@ -1,0 +1,2 @@
+/usr/bin/ar qc libImplRK3Prey_mysolution.static.a CMakeFiles/ImplRK3Prey_mysolution.static.dir/mysolution/implrk3prey_main.cc.o
+/usr/bin/ranlib libImplRK3Prey_mysolution.static.a

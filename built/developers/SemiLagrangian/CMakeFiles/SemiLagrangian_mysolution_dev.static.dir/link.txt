@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSemiLagrangian_mysolution.static.a CMakeFiles/SemiLagrangian_mysolution_dev.static.dir/mastersolution/semilagrangian_main.cc.o CMakeFiles/SemiLagrangian_mysolution_dev.static.dir/mastersolution/semilagrangian.cc.o
+/usr/bin/ranlib libSemiLagrangian_mysolution.static.a

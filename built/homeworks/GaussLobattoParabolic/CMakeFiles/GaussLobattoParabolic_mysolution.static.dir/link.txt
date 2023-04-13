@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGaussLobattoParabolic_mysolution.static.a CMakeFiles/GaussLobattoParabolic_mysolution.static.dir/mysolution/gausslobattoparabolic_main.cc.o CMakeFiles/GaussLobattoParabolic_mysolution.static.dir/mysolution/gausslobattoparabolic.cc.o
+/usr/bin/ranlib libGaussLobattoParabolic_mysolution.static.a

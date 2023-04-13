@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSobolevEvolutionProblem_mastersolution.static.a CMakeFiles/SobolevEvolutionProblem_mastersolution_dev.static.dir/mastersolution/sobolevevolutionproblem_main.cc.o CMakeFiles/SobolevEvolutionProblem_mastersolution_dev.static.dir/mastersolution/sobolevevolutionproblem.cc.o
+/usr/bin/ranlib libSobolevEvolutionProblem_mastersolution.static.a

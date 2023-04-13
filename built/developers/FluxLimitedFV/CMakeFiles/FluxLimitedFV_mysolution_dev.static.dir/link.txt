@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFluxLimitedFV_mysolution.static.a CMakeFiles/FluxLimitedFV_mysolution_dev.static.dir/mastersolution/fluxlimitedfv_main.cc.o CMakeFiles/FluxLimitedFV_mysolution_dev.static.dir/mastersolution/fluxlimitedfv.cc.o
+/usr/bin/ranlib libFluxLimitedFV_mysolution.static.a

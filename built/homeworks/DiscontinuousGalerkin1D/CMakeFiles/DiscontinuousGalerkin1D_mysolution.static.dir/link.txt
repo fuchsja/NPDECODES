@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDiscontinuousGalerkin1D_mysolution.static.a CMakeFiles/DiscontinuousGalerkin1D_mysolution.static.dir/mysolution/discontinuousgalerkin1d_main.cc.o CMakeFiles/DiscontinuousGalerkin1D_mysolution.static.dir/mysolution/discontinuousgalerkin1d.cc.o
+/usr/bin/ranlib libDiscontinuousGalerkin1D_mysolution.static.a

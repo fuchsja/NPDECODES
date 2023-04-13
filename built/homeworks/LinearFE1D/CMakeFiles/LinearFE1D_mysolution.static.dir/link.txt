@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLinearFE1D_mysolution.static.a CMakeFiles/LinearFE1D_mysolution.static.dir/mysolution/linearfe1d_main.cc.o
+/usr/bin/ranlib libLinearFE1D_mysolution.static.a

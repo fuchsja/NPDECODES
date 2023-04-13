@@ -1,0 +1,2 @@
+/usr/bin/ar qc libElementMatrixComputation_mysolution.static.a CMakeFiles/ElementMatrixComputation_mysolution.static.dir/mysolution/elementmatrixcomputation_main.cc.o CMakeFiles/ElementMatrixComputation_mysolution.static.dir/mysolution/mylinearfeelementmatrix.cc.o CMakeFiles/ElementMatrixComputation_mysolution.static.dir/mysolution/mylinearloadvector.cc.o CMakeFiles/ElementMatrixComputation_mysolution.static.dir/mysolution/solve.cc.o CMakeFiles/ElementMatrixComputation_mysolution.static.dir/meshes/mesh.cc.o
+/usr/bin/ranlib libElementMatrixComputation_mysolution.static.a

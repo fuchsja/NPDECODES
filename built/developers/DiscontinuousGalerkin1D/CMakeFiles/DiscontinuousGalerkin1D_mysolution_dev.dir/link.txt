@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/DiscontinuousGalerkin1D_mysolution_dev.dir/mastersolution/discontinuousgalerkin1d_main.cc.o CMakeFiles/DiscontinuousGalerkin1D_mysolution_dev.dir/mastersolution/discontinuousgalerkin1d.cc.o -o DiscontinuousGalerkin1D_mysolution 

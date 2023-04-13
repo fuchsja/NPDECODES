@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMatODE_mastersolution.static.a CMakeFiles/MatODE_mastersolution.static.dir/mastersolution/matode_main.cc.o CMakeFiles/MatODE_mastersolution.static.dir/mastersolution/matode.cc.o
+/usr/bin/ranlib libMatODE_mastersolution.static.a

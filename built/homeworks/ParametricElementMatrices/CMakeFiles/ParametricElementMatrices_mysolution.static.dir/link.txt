@@ -1,0 +1,2 @@
+/usr/bin/ar qc libParametricElementMatrices_mysolution.static.a CMakeFiles/ParametricElementMatrices_mysolution.static.dir/mysolution/parametricelementmatrices_main.cc.o CMakeFiles/ParametricElementMatrices_mysolution.static.dir/mysolution/anisotropicdiffusionelementmatrixprovider.cc.o CMakeFiles/ParametricElementMatrices_mysolution.static.dir/mysolution/fesourceelemvecprovider.cc.o CMakeFiles/ParametricElementMatrices_mysolution.static.dir/mysolution/impedanceboundaryedgematrixprovider.cc.o
+/usr/bin/ranlib libParametricElementMatrices_mysolution.static.a

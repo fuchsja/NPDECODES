@@ -1,0 +1,2 @@
+/usr/bin/ar qc libExtendedMUSCL_mysolution.static.a CMakeFiles/ExtendedMUSCL_mysolution.static.dir/mysolution/extendedmuscl.cc.o CMakeFiles/ExtendedMUSCL_mysolution.static.dir/mysolution/extendedmuscl_main.cc.o
+/usr/bin/ranlib libExtendedMUSCL_mysolution.static.a

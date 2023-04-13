@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPML1D_mysolution.static.a CMakeFiles/PML1D_mysolution_dev.static.dir/mastersolution/pml1d_main.cc.o CMakeFiles/PML1D_mysolution_dev.static.dir/mastersolution/pml1d.cc.o
+/usr/bin/ranlib libPML1D_mysolution.static.a

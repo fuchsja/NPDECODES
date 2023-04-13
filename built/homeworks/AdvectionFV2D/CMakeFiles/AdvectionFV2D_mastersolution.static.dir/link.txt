@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAdvectionFV2D_mastersolution.static.a CMakeFiles/AdvectionFV2D_mastersolution.static.dir/mastersolution/advectionfv2d_main.cc.o CMakeFiles/AdvectionFV2D_mastersolution.static.dir/mastersolution/advectionfv2d.cc.o
+/usr/bin/ranlib libAdvectionFV2D_mastersolution.static.a

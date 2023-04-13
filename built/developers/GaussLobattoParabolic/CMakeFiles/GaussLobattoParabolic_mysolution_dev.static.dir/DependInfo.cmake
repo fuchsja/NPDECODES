@@ -1,0 +1,20 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/fuchsja/NPDECODES/developers/GaussLobattoParabolic/mastersolution/gausslobattoparabolic.cc" "developers/GaussLobattoParabolic/CMakeFiles/GaussLobattoParabolic_mysolution_dev.static.dir/mastersolution/gausslobattoparabolic.cc.o" "gcc" "developers/GaussLobattoParabolic/CMakeFiles/GaussLobattoParabolic_mysolution_dev.static.dir/mastersolution/gausslobattoparabolic.cc.o.d"
+  "/home/fuchsja/NPDECODES/developers/GaussLobattoParabolic/mastersolution/gausslobattoparabolic_main.cc" "developers/GaussLobattoParabolic/CMakeFiles/GaussLobattoParabolic_mysolution_dev.static.dir/mastersolution/gausslobattoparabolic_main.cc.o" "gcc" "developers/GaussLobattoParabolic/CMakeFiles/GaussLobattoParabolic_mysolution_dev.static.dir/mastersolution/gausslobattoparabolic_main.cc.o.d"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

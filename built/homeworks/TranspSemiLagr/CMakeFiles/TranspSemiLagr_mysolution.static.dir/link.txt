@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTranspSemiLagr_mysolution.static.a CMakeFiles/TranspSemiLagr_mysolution.static.dir/mysolution/transpsemilagr.cc.o CMakeFiles/TranspSemiLagr_mysolution.static.dir/mysolution/transpsemilagr_main.cc.o
+/usr/bin/ranlib libTranspSemiLagr_mysolution.static.a

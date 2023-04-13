@@ -1,0 +1,2 @@
+/usr/bin/ar qc libHierarchicalErrorEstimator_mysolution.static.a CMakeFiles/HierarchicalErrorEstimator_mysolution_dev.static.dir/mastersolution/hierarchicalerrorestimator_main.cc.o CMakeFiles/HierarchicalErrorEstimator_mysolution_dev.static.dir/mastersolution/hierarchicalerrorestimator.cc.o
+/usr/bin/ranlib libHierarchicalErrorEstimator_mysolution.static.a

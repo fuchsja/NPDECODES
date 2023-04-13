@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLFPPDofHandling_mysolution.static.a CMakeFiles/LFPPDofHandling_mysolution.static.dir/mysolution/lfppdofhandling_main.cc.o CMakeFiles/LFPPDofHandling_mysolution.static.dir/mysolution/lfppdofhandling.cc.o
+/usr/bin/ranlib libLFPPDofHandling_mysolution.static.a

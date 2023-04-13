@@ -1,0 +1,5 @@
+if(EXISTS "/home/fuchsja/NPDECODES/built/developers/MIRK/MIRK_test_mysolution_dev[1]_tests.cmake")
+  include("/home/fuchsja/NPDECODES/built/developers/MIRK/MIRK_test_mysolution_dev[1]_tests.cmake")
+else()
+  add_test(MIRK_test_mysolution_dev_NOT_BUILT MIRK_test_mysolution_dev_NOT_BUILT)
+endif()

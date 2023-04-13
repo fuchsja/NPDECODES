@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRK3Prey_mysolution.static.a CMakeFiles/RK3Prey_mysolution_dev.static.dir/mastersolution/rk3prey_main.cc.o
+/usr/bin/ranlib libRK3Prey_mysolution.static.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib1DWaveAbsorbingBC_mysolution.static.a CMakeFiles/1DWaveAbsorbingBC_mysolution.static.dir/mysolution/1dwaveabsorbingbc_main.cc.o CMakeFiles/1DWaveAbsorbingBC_mysolution.static.dir/mysolution/1dwaveabsorbingbc.cc.o
+/usr/bin/ranlib lib1DWaveAbsorbingBC_mysolution.static.a

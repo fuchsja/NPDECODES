@@ -1,0 +1,5 @@
+if(EXISTS "/home/fuchsja/NPDECODES/built/developers/BoundaryWave/BoundaryWave_test_mysolution_dev[1]_tests.cmake")
+  include("/home/fuchsja/NPDECODES/built/developers/BoundaryWave/BoundaryWave_test_mysolution_dev[1]_tests.cmake")
+else()
+  add_test(BoundaryWave_test_mysolution_dev_NOT_BUILT BoundaryWave_test_mysolution_dev_NOT_BUILT)
+endif()

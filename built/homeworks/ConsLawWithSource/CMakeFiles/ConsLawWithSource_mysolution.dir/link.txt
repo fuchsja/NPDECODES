@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ConsLawWithSource_mysolution.dir/mysolution/conslawwithsource_main.cc.o CMakeFiles/ConsLawWithSource_mysolution.dir/mysolution/conslawwithsource.cc.o -o ConsLawWithSource_mysolution 

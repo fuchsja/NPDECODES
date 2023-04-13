@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/BurgersEquation_test_mastersolution_dev.dir/mastersolution/test/burgersequation_test.cc.o -o BurgersEquation_test_mastersolution  /home/fuchsja/.hunter/_Base/5e53cbb/6d412ae/0d936a9/Install/lib/libgtest_maind.a libBurgersEquation_mastersolution.static.a /home/fuchsja/.hunter/_Base/5e53cbb/6d412ae/0d936a9/Install/lib/libgtestd.a 

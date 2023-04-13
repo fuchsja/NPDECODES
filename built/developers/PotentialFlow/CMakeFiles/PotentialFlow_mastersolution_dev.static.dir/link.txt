@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPotentialFlow_mastersolution.static.a CMakeFiles/PotentialFlow_mastersolution_dev.static.dir/mastersolution/potentialflow_main.cc.o CMakeFiles/PotentialFlow_mastersolution_dev.static.dir/mastersolution/potentialflow.cc.o
+/usr/bin/ranlib libPotentialFlow_mastersolution.static.a

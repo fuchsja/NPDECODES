@@ -1,0 +1,5 @@
+if(EXISTS "/home/fuchsja/NPDECODES/built/homeworks/RegularizedNeumannProblem/RegularizedNeumannProblem_test_mastersolution[1]_tests.cmake")
+  include("/home/fuchsja/NPDECODES/built/homeworks/RegularizedNeumannProblem/RegularizedNeumannProblem_test_mastersolution[1]_tests.cmake")
+else()
+  add_test(RegularizedNeumannProblem_test_mastersolution_NOT_BUILT RegularizedNeumannProblem_test_mastersolution_NOT_BUILT)
+endif()

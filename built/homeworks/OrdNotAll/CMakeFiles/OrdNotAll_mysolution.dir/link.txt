@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OrdNotAll_mysolution.dir/mysolution/ordnotall_main.cc.o CMakeFiles/OrdNotAll_mysolution.dir/mysolution/ordnotall.cc.o -o OrdNotAll_mysolution 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDebuggingWithGDB_mysolution.static.a CMakeFiles/DebuggingWithGDB_mysolution_dev.static.dir/mastersolution/debuggingwithgdb_main.cc.o CMakeFiles/DebuggingWithGDB_mysolution_dev.static.dir/mastersolution/debuggingwithgdb.cc.o
+/usr/bin/ranlib libDebuggingWithGDB_mysolution.static.a

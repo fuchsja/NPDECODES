@@ -1,0 +1,5 @@
+if(EXISTS "/home/fuchsja/NPDECODES/built/homeworks/SystemODE/SystemODE_test_mastersolution[1]_tests.cmake")
+  include("/home/fuchsja/NPDECODES/built/homeworks/SystemODE/SystemODE_test_mastersolution[1]_tests.cmake")
+else()
+  add_test(SystemODE_test_mastersolution_NOT_BUILT SystemODE_test_mastersolution_NOT_BUILT)
+endif()

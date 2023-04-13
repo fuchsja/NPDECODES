@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNLMatODE_mastersolution.static.a CMakeFiles/NLMatODE_mastersolution_dev.static.dir/mastersolution/nlmatode_main.cc.o CMakeFiles/NLMatODE_mastersolution_dev.static.dir/mastersolution/nlmatode.cc.o
+/usr/bin/ranlib libNLMatODE_mastersolution.static.a

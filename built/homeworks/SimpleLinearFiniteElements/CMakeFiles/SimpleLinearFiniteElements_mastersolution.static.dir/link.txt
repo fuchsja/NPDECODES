@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSimpleLinearFiniteElements_mastersolution.static.a CMakeFiles/SimpleLinearFiniteElements_mastersolution.static.dir/mastersolution/simplelinearfiniteelements_main.cc.o CMakeFiles/SimpleLinearFiniteElements_mastersolution.static.dir/mastersolution/simplelinearfiniteelements.cc.o CMakeFiles/SimpleLinearFiniteElements_mastersolution.static.dir/mastersolution/tria_mesh_2D.cc.o
+/usr/bin/ranlib libSimpleLinearFiniteElements_mastersolution.static.a

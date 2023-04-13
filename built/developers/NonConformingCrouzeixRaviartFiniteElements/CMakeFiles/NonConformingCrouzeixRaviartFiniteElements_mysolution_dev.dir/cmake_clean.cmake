@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/NonConformingCrouzeixRaviartFiniteElements_mysolution_dev.dir/mastersolution/nonconformingcrouzeixraviartfiniteelements.cc.o"
+  "CMakeFiles/NonConformingCrouzeixRaviartFiniteElements_mysolution_dev.dir/mastersolution/nonconformingcrouzeixraviartfiniteelements.cc.o.d"
+  "CMakeFiles/NonConformingCrouzeixRaviartFiniteElements_mysolution_dev.dir/mastersolution/nonconformingcrouzeixraviartfiniteelements_main.cc.o"
+  "CMakeFiles/NonConformingCrouzeixRaviartFiniteElements_mysolution_dev.dir/mastersolution/nonconformingcrouzeixraviartfiniteelements_main.cc.o.d"
+  "NonConformingCrouzeixRaviartFiniteElements_mysolution"
+  "NonConformingCrouzeixRaviartFiniteElements_mysolution.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/NonConformingCrouzeixRaviartFiniteElements_mysolution_dev.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

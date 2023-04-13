@@ -1,0 +1,5 @@
+if(EXISTS "/home/fuchsja/NPDECODES/built/homeworks/ConvBLFMatrixProvider/ConvBLFMatrixProvider_test_mysolution[1]_tests.cmake")
+  include("/home/fuchsja/NPDECODES/built/homeworks/ConvBLFMatrixProvider/ConvBLFMatrixProvider_test_mysolution[1]_tests.cmake")
+else()
+  add_test(ConvBLFMatrixProvider_test_mysolution_NOT_BUILT ConvBLFMatrixProvider_test_mysolution_NOT_BUILT)
+endif()

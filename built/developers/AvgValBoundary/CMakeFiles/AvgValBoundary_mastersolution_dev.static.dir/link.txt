@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAvgValBoundary_mastersolution.static.a CMakeFiles/AvgValBoundary_mastersolution_dev.static.dir/mastersolution/avgvalboundary_main.cc.o CMakeFiles/AvgValBoundary_mastersolution_dev.static.dir/mastersolution/avgvalboundary.cc.o
+/usr/bin/ranlib libAvgValBoundary_mastersolution.static.a

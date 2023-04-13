@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNumPDESetup_mysolution.static.a CMakeFiles/NumPDESetup_mysolution.static.dir/mysolution/numpdesetup_main.cc.o CMakeFiles/NumPDESetup_mysolution.static.dir/mysolution/numpdesetup.cc.o
+/usr/bin/ranlib libNumPDESetup_mysolution.static.a

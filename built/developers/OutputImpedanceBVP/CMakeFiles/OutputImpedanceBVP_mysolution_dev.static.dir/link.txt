@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOutputImpedanceBVP_mysolution.static.a CMakeFiles/OutputImpedanceBVP_mysolution_dev.static.dir/mastersolution/outputimpedancebvp_main.cc.o CMakeFiles/OutputImpedanceBVP_mysolution_dev.static.dir/mastersolution/outputimpedancebvp.cc.o CMakeFiles/OutputImpedanceBVP_mysolution_dev.static.dir/mastersolution/evalclass.cc.o
+/usr/bin/ranlib libOutputImpedanceBVP_mysolution.static.a

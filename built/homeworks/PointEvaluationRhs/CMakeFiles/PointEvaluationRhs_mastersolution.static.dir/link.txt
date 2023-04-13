@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPointEvaluationRhs_mastersolution.static.a CMakeFiles/PointEvaluationRhs_mastersolution.static.dir/mastersolution/pointevaluationrhs_main.cc.o CMakeFiles/PointEvaluationRhs_mastersolution.static.dir/mastersolution/pointevaluationrhs.cc.o CMakeFiles/PointEvaluationRhs_mastersolution.static.dir/mastersolution/pointevaluationrhs_norms.cc.o
+/usr/bin/ranlib libPointEvaluationRhs_mastersolution.static.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNonLinSchroedingerEquation_mysolution.static.a CMakeFiles/NonLinSchroedingerEquation_mysolution_dev.static.dir/mastersolution/nonlinschroedingerequation_main.cc.o CMakeFiles/NonLinSchroedingerEquation_mysolution_dev.static.dir/mastersolution/nonlinschroedingerequation.cc.o CMakeFiles/NonLinSchroedingerEquation_mysolution_dev.static.dir/mastersolution/propagator.cc.o
+/usr/bin/ranlib libNonLinSchroedingerEquation_mysolution.static.a

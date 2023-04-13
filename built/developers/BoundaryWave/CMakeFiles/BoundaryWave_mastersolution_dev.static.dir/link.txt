@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBoundaryWave_mastersolution.static.a CMakeFiles/BoundaryWave_mastersolution_dev.static.dir/mastersolution/boundarywave_main.cc.o CMakeFiles/BoundaryWave_mastersolution_dev.static.dir/mastersolution/boundarywave.cc.o
+/usr/bin/ranlib libBoundaryWave_mastersolution.static.a

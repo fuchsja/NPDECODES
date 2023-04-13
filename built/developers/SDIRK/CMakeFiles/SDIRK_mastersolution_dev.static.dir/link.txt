@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSDIRK_mastersolution.static.a CMakeFiles/SDIRK_mastersolution_dev.static.dir/mastersolution/sdirk_main.cc.o CMakeFiles/SDIRK_mastersolution_dev.static.dir/mastersolution/sdirk.cc.o
+/usr/bin/ranlib libSDIRK_mastersolution.static.a

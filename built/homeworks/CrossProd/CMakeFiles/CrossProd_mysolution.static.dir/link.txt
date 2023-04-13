@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCrossProd_mysolution.static.a CMakeFiles/CrossProd_mysolution.static.dir/mysolution/crossprod_main.cc.o CMakeFiles/CrossProd_mysolution.static.dir/mysolution/crossprod.cc.o
+/usr/bin/ranlib libCrossProd_mysolution.static.a

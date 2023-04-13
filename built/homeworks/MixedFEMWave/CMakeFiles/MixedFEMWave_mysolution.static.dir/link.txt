@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMixedFEMWave_mysolution.static.a CMakeFiles/MixedFEMWave_mysolution.static.dir/mysolution/mixedfemwave_main.cc.o CMakeFiles/MixedFEMWave_mysolution.static.dir/mysolution/mixedfemwave.cc.o
+/usr/bin/ranlib libMixedFEMWave_mysolution.static.a

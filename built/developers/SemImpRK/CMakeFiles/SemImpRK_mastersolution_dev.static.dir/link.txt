@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSemImpRK_mastersolution.static.a CMakeFiles/SemImpRK_mastersolution_dev.static.dir/mastersolution/semimprk_main.cc.o CMakeFiles/SemImpRK_mastersolution_dev.static.dir/mastersolution/semimprk.cc.o
+/usr/bin/ranlib libSemImpRK_mastersolution.static.a

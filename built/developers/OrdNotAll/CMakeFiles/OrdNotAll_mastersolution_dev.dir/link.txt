@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OrdNotAll_mastersolution_dev.dir/mastersolution/ordnotall_main.cc.o CMakeFiles/OrdNotAll_mastersolution_dev.dir/mastersolution/ordnotall.cc.o -o OrdNotAll_mastersolution 

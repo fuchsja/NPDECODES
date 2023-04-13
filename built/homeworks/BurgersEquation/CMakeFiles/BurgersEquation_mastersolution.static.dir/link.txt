@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBurgersEquation_mastersolution.static.a CMakeFiles/BurgersEquation_mastersolution.static.dir/mastersolution/burgersequation_main.cc.o CMakeFiles/BurgersEquation_mastersolution.static.dir/mastersolution/burgersequation.cc.o
+/usr/bin/ranlib libBurgersEquation_mastersolution.static.a

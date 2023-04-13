@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMehrstellenverfahren_mastersolution.static.a CMakeFiles/Mehrstellenverfahren_mastersolution_dev.static.dir/mastersolution/mehrstellenverfahren_main.cc.o CMakeFiles/Mehrstellenverfahren_mastersolution_dev.static.dir/mastersolution/mehrstellenverfahren.cc.o
+/usr/bin/ranlib libMehrstellenverfahren_mastersolution.static.a

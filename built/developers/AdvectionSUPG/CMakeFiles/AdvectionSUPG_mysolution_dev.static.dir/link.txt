@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAdvectionSUPG_mysolution.static.a CMakeFiles/AdvectionSUPG_mysolution_dev.static.dir/mastersolution/advectionsupg_main.cc.o
+/usr/bin/ranlib libAdvectionSUPG_mysolution.static.a

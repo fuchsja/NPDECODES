@@ -1,0 +1,5 @@
+if(EXISTS "/home/fuchsja/NPDECODES/built/homeworks/RK3Prey/RK3Prey_test_mysolution[1]_tests.cmake")
+  include("/home/fuchsja/NPDECODES/built/homeworks/RK3Prey/RK3Prey_test_mysolution[1]_tests.cmake")
+else()
+  add_test(RK3Prey_test_mysolution_NOT_BUILT RK3Prey_test_mysolution_NOT_BUILT)
+endif()

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTransformationOfGalerkinMatrices_mastersolution.static.a CMakeFiles/TransformationOfGalerkinMatrices_mastersolution_dev.static.dir/mastersolution/transformationofgalerkinmatrices_main.cc.o CMakeFiles/TransformationOfGalerkinMatrices_mastersolution_dev.static.dir/mastersolution/transformationofgalerkinmatrices.cc.o
+/usr/bin/ranlib libTransformationOfGalerkinMatrices_mastersolution.static.a

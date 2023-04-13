@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLengthOfBoundary_mastersolution.static.a CMakeFiles/LengthOfBoundary_mastersolution.static.dir/mastersolution/boundarylength_main.cc.o CMakeFiles/LengthOfBoundary_mastersolution.static.dir/mastersolution/boundarylength.cc.o
+/usr/bin/ranlib libLengthOfBoundary_mastersolution.static.a

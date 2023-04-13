@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/FiniteVolumeSineConsLaw_mysolution.dir/mysolution/finitevolumesineconslaw_main.cc.o CMakeFiles/FiniteVolumeSineConsLaw_mysolution.dir/mysolution/finitevolumesineconslaw.cc.o -o FiniteVolumeSineConsLaw_mysolution 

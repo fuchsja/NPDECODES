@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSystemODE_mysolution.static.a CMakeFiles/SystemODE_mysolution_dev.static.dir/mastersolution/systemode_main.cc.o
+/usr/bin/ranlib libSystemODE_mysolution.static.a

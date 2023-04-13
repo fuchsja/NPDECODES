@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUnstableBVP_mysolution.static.a CMakeFiles/UnstableBVP_mysolution.static.dir/mysolution/unstablebvp_main.cc.o CMakeFiles/UnstableBVP_mysolution.static.dir/mysolution/unstablebvp.cc.o
+/usr/bin/ranlib libUnstableBVP_mysolution.static.a

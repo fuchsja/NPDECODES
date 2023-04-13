@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNitscheMethod_mastersolution.static.a CMakeFiles/NitscheMethod_mastersolution.static.dir/mastersolution/nitschemethod_main.cc.o CMakeFiles/NitscheMethod_mastersolution.static.dir/mastersolution/nitschemethod.cc.o
+/usr/bin/ranlib libNitscheMethod_mastersolution.static.a

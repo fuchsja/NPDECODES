@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIPDGFEM_mastersolution.static.a CMakeFiles/IPDGFEM_mastersolution_dev.static.dir/mastersolution/ipdgfem_main.cc.o CMakeFiles/IPDGFEM_mastersolution_dev.static.dir/mastersolution/ipdgfem.cc.o
+/usr/bin/ranlib libIPDGFEM_mastersolution.static.a

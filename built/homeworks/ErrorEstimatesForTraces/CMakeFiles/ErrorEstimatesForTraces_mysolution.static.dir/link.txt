@@ -1,0 +1,2 @@
+/usr/bin/ar qc libErrorEstimatesForTraces_mysolution.static.a CMakeFiles/ErrorEstimatesForTraces_mysolution.static.dir/mysolution/errorestimatesfortraces_main.cc.o CMakeFiles/ErrorEstimatesForTraces_mysolution.static.dir/mysolution/teelaplrobinassembly.cc.o
+/usr/bin/ranlib libErrorEstimatesForTraces_mysolution.static.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libElectrostaticForce_mastersolution.static.a CMakeFiles/ElectrostaticForce_mastersolution_dev.static.dir/mastersolution/electrostaticforce_main.cc.o CMakeFiles/ElectrostaticForce_mastersolution_dev.static.dir/mastersolution/electrostaticforce.cc.o
+/usr/bin/ranlib libElectrostaticForce_mastersolution.static.a

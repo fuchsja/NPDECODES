@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/BurgersEquation_mysolution_dev.dir/mastersolution/burgersequation_main.cc.o CMakeFiles/BurgersEquation_mysolution_dev.dir/mastersolution/burgersequation.cc.o -o BurgersEquation_mysolution 

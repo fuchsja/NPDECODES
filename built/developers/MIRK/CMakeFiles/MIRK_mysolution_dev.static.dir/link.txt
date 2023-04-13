@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMIRK_mysolution.static.a CMakeFiles/MIRK_mysolution_dev.static.dir/mastersolution/mirk_main.cc.o
+/usr/bin/ranlib libMIRK_mysolution.static.a

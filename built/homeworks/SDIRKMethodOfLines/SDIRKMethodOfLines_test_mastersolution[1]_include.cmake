@@ -1,0 +1,5 @@
+if(EXISTS "/home/fuchsja/NPDECODES/built/homeworks/SDIRKMethodOfLines/SDIRKMethodOfLines_test_mastersolution[1]_tests.cmake")
+  include("/home/fuchsja/NPDECODES/built/homeworks/SDIRKMethodOfLines/SDIRKMethodOfLines_test_mastersolution[1]_tests.cmake")
+else()
+  add_test(SDIRKMethodOfLines_test_mastersolution_NOT_BUILT SDIRKMethodOfLines_test_mastersolution_NOT_BUILT)
+endif()

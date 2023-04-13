@@ -1,0 +1,2 @@
+/usr/bin/ar qc libEngquistOsherNumericalFlux_mysolution.static.a CMakeFiles/EngquistOsherNumericalFlux_mysolution.static.dir/mysolution/engquistoshernumericalflux_main.cc.o CMakeFiles/EngquistOsherNumericalFlux_mysolution.static.dir/mysolution/engquistoshernumericalflux.cc.o
+/usr/bin/ranlib libEngquistOsherNumericalFlux_mysolution.static.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libConvBLFMatrixProvider_mysolution.static.a CMakeFiles/ConvBLFMatrixProvider_mysolution_dev.static.dir/mastersolution/convblfmatrixprovider.cc.o CMakeFiles/ConvBLFMatrixProvider_mysolution_dev.static.dir/mastersolution/convblfmatrixprovider_main.cc.o
+/usr/bin/ranlib libConvBLFMatrixProvider_mysolution.static.a

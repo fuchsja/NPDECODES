@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSymplecticTimestepping_mastersolution.static.a CMakeFiles/SymplecticTimestepping_mastersolution_dev.static.dir/mastersolution/symplectictimestepping_main.cc.o CMakeFiles/SymplecticTimestepping_mastersolution_dev.static.dir/mastersolution/symplectictimestepping.cc.o
+/usr/bin/ranlib libSymplecticTimestepping_mastersolution.static.a

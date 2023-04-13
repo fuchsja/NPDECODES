@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDebuggingFEM_mysolution.static.a CMakeFiles/DebuggingFEM_mysolution.static.dir/mysolution/debuggingfem_main.cc.o CMakeFiles/DebuggingFEM_mysolution.static.dir/mysolution/locallaplaceqfe.cc.o CMakeFiles/DebuggingFEM_mysolution.static.dir/mysolution/qfeinterpolator.cc.o
+/usr/bin/ranlib libDebuggingFEM_mysolution.static.a

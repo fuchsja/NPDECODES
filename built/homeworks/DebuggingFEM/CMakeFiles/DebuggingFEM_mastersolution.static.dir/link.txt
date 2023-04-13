@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDebuggingFEM_mastersolution.static.a CMakeFiles/DebuggingFEM_mastersolution.static.dir/mastersolution/debuggingfem_main.cc.o CMakeFiles/DebuggingFEM_mastersolution.static.dir/mastersolution/locallaplaceqfe.cc.o CMakeFiles/DebuggingFEM_mastersolution.static.dir/mastersolution/qfeinterpolator.cc.o
+/usr/bin/ranlib libDebuggingFEM_mastersolution.static.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/DiscontinuousGalerkin1D_test_mysolution.dir/mysolution/test/discontinuousgalerkin1d_test.cc.o -o DiscontinuousGalerkin1D_test_mysolution  /home/fuchsja/.hunter/_Base/5e53cbb/6d412ae/0d936a9/Install/lib/libgtest_maind.a libDiscontinuousGalerkin1D_mysolution.static.a /home/fuchsja/.hunter/_Base/5e53cbb/6d412ae/0d936a9/Install/lib/libgtestd.a 

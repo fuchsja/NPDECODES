@@ -1,0 +1,2 @@
+/usr/bin/ar qc libInitCondLV_mastersolution.static.a CMakeFiles/InitCondLV_mastersolution_dev.static.dir/mastersolution/initcondlv_main.cc.o CMakeFiles/InitCondLV_mastersolution_dev.static.dir/mastersolution/initcondlv.cc.o
+/usr/bin/ranlib libInitCondLV_mastersolution.static.a

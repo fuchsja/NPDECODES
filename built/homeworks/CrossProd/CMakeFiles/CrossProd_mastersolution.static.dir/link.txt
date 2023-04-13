@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCrossProd_mastersolution.static.a CMakeFiles/CrossProd_mastersolution.static.dir/mastersolution/crossprod_main.cc.o CMakeFiles/CrossProd_mastersolution.static.dir/mastersolution/crossprod.cc.o
+/usr/bin/ranlib libCrossProd_mastersolution.static.a

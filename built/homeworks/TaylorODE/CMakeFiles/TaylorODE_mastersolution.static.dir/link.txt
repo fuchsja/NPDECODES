@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTaylorODE_mastersolution.static.a CMakeFiles/TaylorODE_mastersolution.static.dir/mastersolution/taylorode_main.cc.o CMakeFiles/TaylorODE_mastersolution.static.dir/mastersolution/taylorode.cc.o
+/usr/bin/ranlib libTaylorODE_mastersolution.static.a

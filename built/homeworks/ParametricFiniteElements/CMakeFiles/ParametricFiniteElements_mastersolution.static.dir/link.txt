@@ -1,0 +1,2 @@
+/usr/bin/ar qc libParametricFiniteElements_mastersolution.static.a CMakeFiles/ParametricFiniteElements_mastersolution.static.dir/mastersolution/parametricfiniteelements_main.cc.o
+/usr/bin/ranlib libParametricFiniteElements_mastersolution.static.a

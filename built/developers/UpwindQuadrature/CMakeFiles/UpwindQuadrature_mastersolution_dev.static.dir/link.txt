@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUpwindQuadrature_mastersolution.static.a CMakeFiles/UpwindQuadrature_mastersolution_dev.static.dir/mastersolution/upwindquadrature_main.cc.o CMakeFiles/UpwindQuadrature_mastersolution_dev.static.dir/mastersolution/upwindquadrature.cc.o
+/usr/bin/ranlib libUpwindQuadrature_mastersolution.static.a

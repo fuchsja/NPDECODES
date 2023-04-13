@@ -1,0 +1,2 @@
+/usr/bin/ar qc libResidualErrorEstimator_mysolution.static.a CMakeFiles/ResidualErrorEstimator_mysolution_dev.static.dir/mastersolution/residualerrorestimator_main.cc.o CMakeFiles/ResidualErrorEstimator_mysolution_dev.static.dir/mastersolution/residualerrorestimator.cc.o
+/usr/bin/ranlib libResidualErrorEstimator_mysolution.static.a

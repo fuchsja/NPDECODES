@@ -1,0 +1,5 @@
+if(EXISTS "/home/fuchsja/NPDECODES/built/homeworks/ElectrostaticForce/ElectrostaticForce_test_mastersolution[1]_tests.cmake")
+  include("/home/fuchsja/NPDECODES/built/homeworks/ElectrostaticForce/ElectrostaticForce_test_mastersolution[1]_tests.cmake")
+else()
+  add_test(ElectrostaticForce_test_mastersolution_NOT_BUILT ElectrostaticForce_test_mastersolution_NOT_BUILT)
+endif()

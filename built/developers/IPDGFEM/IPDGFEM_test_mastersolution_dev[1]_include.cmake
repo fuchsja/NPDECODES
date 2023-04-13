@@ -1,0 +1,5 @@
+if(EXISTS "/home/fuchsja/NPDECODES/built/developers/IPDGFEM/IPDGFEM_test_mastersolution_dev[1]_tests.cmake")
+  include("/home/fuchsja/NPDECODES/built/developers/IPDGFEM/IPDGFEM_test_mastersolution_dev[1]_tests.cmake")
+else()
+  add_test(IPDGFEM_test_mastersolution_dev_NOT_BUILT IPDGFEM_test_mastersolution_dev_NOT_BUILT)
+endif()

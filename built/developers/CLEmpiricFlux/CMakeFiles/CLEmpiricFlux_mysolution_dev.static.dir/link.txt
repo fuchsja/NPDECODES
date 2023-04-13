@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCLEmpiricFlux_mysolution.static.a CMakeFiles/CLEmpiricFlux_mysolution_dev.static.dir/mastersolution/clempiricflux_main.cc.o CMakeFiles/CLEmpiricFlux_mysolution_dev.static.dir/mastersolution/clempiricflux.cc.o CMakeFiles/CLEmpiricFlux_mysolution_dev.static.dir/mastersolution/solvecauchyproblem.cc.o CMakeFiles/CLEmpiricFlux_mysolution_dev.static.dir/mastersolution/uniformcubicspline.cc.o
+/usr/bin/ranlib libCLEmpiricFlux_mysolution.static.a

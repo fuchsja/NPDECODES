@@ -1,0 +1,2 @@
+/usr/bin/ar qc libStabRK3_mysolution.static.a CMakeFiles/StabRK3_mysolution_dev.static.dir/mastersolution/stabrk3_main.cc.o CMakeFiles/StabRK3_mysolution_dev.static.dir/mastersolution/stabrk3.cc.o
+/usr/bin/ranlib libStabRK3_mysolution.static.a
